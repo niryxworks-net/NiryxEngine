@@ -1,0 +1,62 @@
+# CAPÍTULO 0: El olor del secreto
+
+@bg pasteleria_dia
+@music bgm_pasteleria
+@sfx sfx_puerta
+
+"La puerta de la pastelería se abre con un suave tintineo."
+
+Moka happy right
+Moka: "¡Nyaa! ¡Hueles a pan recién horneado, Naoki!"
+
+Naoki surprised left
+Naoki: "¿Eh? ¿Cómo sabes mi nombre?"
+
+Naoki surprised left
+Naoki: "¡Y... tienes orejas de perro!"
+
+Moka confession center
+Moka: "Jeje... ¡Somos dog girls del mundo Inu!"
+
+Moka wink center
+Moka: "¡Pero shhh! Es un secreto."
+
+@bg pasteleria_sorpresa
+@sfx sfx_moka_ladrido
+
+"Moka agita la cola de felicidad."
+
+Fuwu happy left
+Fuwu: "¡Bienvenido a Inunnect!"
+
+Fuwu wink left
+Fuwu: "Aquí puedes disfrutar de los mejores pasteles del universo."
+
+Naoki confused center
+Naoki: "¿Inunnect? ¿Mundo Inu? No entiendo nada..."
+
+Moka happy right
+Moka: "¡No te preocupes! Todo tiene sentido eventualmente."
+
+@sfx sfx_campanilla
+
+"La campanilla suena nuevamente."
+
+Orbeez angry left
+Orbeez: "¡YAAA! ¡Dejen de revelar secretos a todos los clientes!"
+
+Moka surprised center
+Moka: "¡Ups! Lo siento, Orbeez..."
+
+Orbeez neutral left
+Orbeez: "Bueno... ya que está aquí, bienvenido, Naoki."
+
+Naoki happy center
+Naoki: "Gracias... creo. Esto es muy extraño pero... me gusta."
+
+@music bgm_ending
+@bg pasteleria_atardecer
+
+"Y así comienza la historia de Naoki en el mundo de Inunnect..."
+
+# FIN DEL CAPÍTULO 0

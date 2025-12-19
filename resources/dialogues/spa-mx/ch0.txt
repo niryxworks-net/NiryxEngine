@@ -1,0 +1,22 @@
+# CAPÍTULO 1: El olor del secreto
+
+@bg pasteleria_dia
+@music bgm_pasteleria
+@sfx sfx_puerta
+
+Moka happy right
+Moka: "¡Nyaa! ¡Hueles a pan recién horneado, Naoki!"
+
+Naoki surprised left
+Naoki: "¿Eh? ¿Cómo sabes mi nombre? ¡Y tienes orejas de perro!"
+
+Moka confession center
+Moka: "Jeje... ¡Somos dog girls del mundo Inu! ¡Pero shhh!"
+
+@bg pasteleria_sorpresa
+@sfx sfx_moka_ladrido
+
+Fuwu wink center
+Fuwu: "¡Bienvenido a Inunnect!"
+
+"Moka agita la cola de felicidad."
